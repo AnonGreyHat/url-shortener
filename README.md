@@ -1,6 +1,6 @@
 # url-shortener
 
-Password Generator is a tools which generates custom password with 12 character
+url-shortener is a tool to shortened you url link 
 
 # Installation
 git clone https://github.com/AnonGreyHat/url-shortener.git
