@@ -9,7 +9,7 @@ cd url-shortener
 
 python3 shortener.py 
 
-#Note:
+# Note:
 make sure you install the pyshortener
 
 pip install pyshortener
