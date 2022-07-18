@@ -8,3 +8,8 @@ git clone https://github.com/AnonGreyHat/url-shortener.git
 cd url-shortener
 
 python3 shortener.py 
+
+#Note:
+make sure you install the pyshortener
+
+pip install pyshortener
